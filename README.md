@@ -154,6 +154,16 @@ airbnb-analysis/
 └── README.md
 ```
 
+## Data Accessibility
+
+Due to file size limitations on GitHub, the full processed dataset (`cleaned_data.csv` and `cleaned_data.xlsx`) may not be directly viewable within the browser.
+
+To address this, a smaller sample dataset (`cleaned_data_sample.csv`) has been included in the `data/processed/` directory. This file contains a subset of approximately 300–500 rows and is intended to provide a quick, accessible preview of the dataset structure and key variables.
+
+The sample dataset preserves the core attributes used in the analysis, including pricing, review activity, room type classification, and geographic grouping, allowing users to easily understand the data without downloading large files.
+
+For complete analysis and full dataset exploration, users are encouraged to download the full dataset files locally.
+
 ## How to View the Dashboard
 
 1. Navigate to the `dashboard` folder in this repository  
