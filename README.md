@@ -131,8 +131,6 @@ airbnb-analysis/
 │
 ├── data/
 │   ├── raw/
-│   │   └── raw_data.csv
-│   │
 │   └── processed/
 │       ├── cleaned_data.xlsx
 │       └── cleaned_data.csv
@@ -154,4 +152,15 @@ airbnb-analysis/
 │   └── project_summary.md
 │
 └── README.md
-  
+```
+
+## How to View the Dashboard
+
+1. Navigate to the `dashboard` folder in this repository  
+2. Download the `.pbix` file  
+3. Open it using Power BI Desktop  
+4. Interact with the dashboard  
+
+## Author
+
+Daisy Sharma
