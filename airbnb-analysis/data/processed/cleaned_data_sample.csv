@@ -1,0 +1,50 @@
+neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+Manhattan,Gramercy,40.73661,-73.98706,Entire home/apt,1000,45,5/16/2019,0.46,2,365
+Brooklyn,Cobble Hill,40.68561,-73.99572,Entire home/apt,1000,38,6/27/2019,0.5,13,365
+Manhattan,Chelsea,40.74567,-73.99254,Entire home/apt,949,0,,0,3,365
+Brooklyn,Park Slope,40.66737,-73.9747,Entire home/apt,945,42,7/6/2019,1.21,2,365
+Brooklyn,Park Slope,40.67086,-73.97847,Private room,935,0,,0,1,365
+Manhattan,Upper West Side,40.79478,-73.97474,Entire home/apt,900,11,6/7/2019,0.11,3,365
+Manhattan,Lower East Side,40.71946,-73.98935,Entire home/apt,900,166,5/27/2019,1.68,2,365
+Manhattan,SoHo,40.72575,-74.00128,Entire home/apt,850,82,5/19/2019,0.94,2,365
+Brooklyn,Carroll Gardens,40.68333,-73.99802,Entire home/apt,800,38,5/8/2018,0.42,3,365
+Brooklyn,Boerum Hill,40.68486,-73.98487,Entire home/apt,800,43,5/20/2019,0.44,2,365
+Manhattan,East Village,40.73027,-73.98759,Entire home/apt,750,1,4/20/2014,0.02,1,365
+Manhattan,Midtown,40.75302,-73.97221,Private room,699,5,7/9/2017,0.05,1,365
+Manhattan,Lower East Side,40.71981,-73.9856,Entire home/apt,699,11,9/25/2017,0.12,2,365
+Manhattan,Theater District,40.76118,-73.98635,Entire home/apt,699,0,,0,2,365
+Manhattan,Midtown,40.75363,-73.96648,Entire home/apt,675,56,7/6/2019,0.66,3,365
+Manhattan,Midtown,40.75939,-73.96177,Entire home/apt,650,30,6/28/2019,0.33,2,365
+Manhattan,Murray Hill,40.74653,-73.97891,Entire home/apt,650,5,9/7/2015,0.06,2,365
+Manhattan,Midtown,40.74188,-73.98419,Entire home/apt,650,19,9/8/2015,0.21,1,365
+Manhattan,Little Italy,40.71841,-73.99753,Entire home/apt,649,49,10/27/2018,0.53,1,365
+Manhattan,Chelsea,40.74009,-73.99608,Entire home/apt,625,1,9/1/2016,0.03,1,365
+Manhattan,SoHo,40.71988,-74.00062,Entire home/apt,620,15,6/8/2019,0.25,3,365
+Manhattan,Murray Hill,40.74776,-73.97335,Entire home/apt,600,2,4/10/2018,0.06,1,365
+Manhattan,Midtown,40.75331,-73.9733,Private room,599,14,8/19/2015,0.22,1,365
+Manhattan,Hell's Kitchen,40.76191,-73.99771,Entire home/apt,575,56,7/16/2018,0.64,1,365
+Brooklyn,Park Slope,40.68305,-73.97853,Entire home/apt,550,11,6/23/2019,0.13,3,365
+Manhattan,Midtown,40.75912,-73.9621,Entire home/apt,550,0,,0,1,365
+Manhattan,East Village,40.72709,-73.99074,Entire home/apt,545,0,,0,1,365
+Manhattan,Hell's Kitchen,40.76183,-73.99181,Entire home/apt,525,36,9/26/2018,0.57,1,365
+Manhattan,Hell's Kitchen,40.76208,-73.99932,Entire home/apt,525,54,3/24/2019,0.65,4,365
+Manhattan,West Village,40.73096,-74.00319,Entire home/apt,500,2,10/3/2017,0.09,1,365
+Manhattan,Nolita,40.72118,-73.99602,Entire home/apt,500,32,1/31/2017,0.37,7,365
+Brooklyn,Williamsburg,40.71011,-73.95782,Entire home/apt,500,20,6/23/2019,0.24,1,365
+Manhattan,Midtown,40.75351,-73.97196,Private room,499,74,5/15/2019,0.87,2,365
+Manhattan,Hell's Kitchen,40.76578,-73.98383,Entire home/apt,499,2,8/7/2015,0.02,1,365
+Manhattan,Hell's Kitchen,40.76189,-73.99955,Entire home/apt,499,0,,0,1,365
+Manhattan,SoHo,40.72249,-73.99758,Entire home/apt,499,23,10/8/2018,0.27,1,365
+Manhattan,West Village,40.73795,-74.00593,Entire home/apt,495,6,4/15/2018,0.09,1,365
+Brooklyn,Crown Heights,40.67782,-73.94373,Entire home/apt,495,10,5/21/2019,0.48,1,365
+Manhattan,Chelsea,40.74476,-73.99266,Entire home/apt,487,132,6/5/2019,1.75,1,365
+Brooklyn,Park Slope,40.66955,-73.98174,Entire home/apt,480,36,1/25/2017,0.44,1,365
+Manhattan,East Village,40.72259,-73.98472,Entire home/apt,478,0,,0,2,365
+Manhattan,Flatiron District,40.74107,-73.98487,Entire home/apt,475,63,4/18/2019,0.77,3,365
+Queens,Woodside,40.75541,-73.90272,Private room,475,0,,0,2,365
+Manhattan,SoHo,40.7255,-74.00258,Entire home/apt,459,1,9/18/2012,0.01,1,365
+Manhattan,East Village,40.72434,-73.99099,Entire home/apt,455,3,9/23/2012,0.04,1,365
+Manhattan,Tribeca,40.72023,-74.00715,Entire home/apt,450,0,,0,1,365
+Brooklyn,Williamsburg,40.71241,-73.9653,Entire home/apt,450,56,5/21/2019,0.96,1,365
+Manhattan,West Village,40.73173,-74.00904,Entire home/apt,450,1,11/1/2012,0.01,52,365
+Manhattan,Chelsea,40.74923,-73.99376,Entire home/apt,450,37,6/2/2019,0.45,1,365
