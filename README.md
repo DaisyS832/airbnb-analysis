@@ -154,16 +154,4 @@ airbnb-analysis/
 │   └── project_summary.md
 │
 └── README.md
-
-## How to View the Dashboard
-
-1. Navigate to the `dashboard` folder in this repository  
-2. Download the `.pbix` file  
-3. Open it using Power BI Desktop  
-4. Interact with the dashboard to explore pricing trends, geographic distribution, and review activity  
-
-Dashboard screenshots are also available in the `images` folder for quick reference.
-
-## Author
-
-Daisy Sharma     
+  
