@@ -25,6 +25,14 @@ Each visual was intentionally designed to answer a specific analytical question 
 
 The dataset used in this project is a publicly available Airbnb dataset sourced from Kaggle. It contains listing-level data for New York City, including pricing, geographic coordinates, room type classifications, and review activity.
 
+## Data Preview
+
+![Data Preview](airbnb-analysis/images/data_preview.png)
+
+This preview displays a sample of the cleaned Airbnb dataset used in the analysis. The dataset has been structured to include relevant variables such as price, room type, neighborhood, review activity, and availability.
+
+The cleaned format ensures consistency, improves analytical efficiency, and supports accurate visualization within Power BI.
+
 ## Tools and Technologies
 
 - Power BI for dashboard development and visualization  
@@ -102,6 +110,9 @@ From a business perspective, this suggests that pricing strategies should balanc
 - **Review Activity Is Not Directly Linked to High Prices**  
   Listings with high review counts are often moderately priced, suggesting that demand is driven more by value and accessibility than premium pricing.
 
+- **Pricing Is Influenced More by Market Positioning Than Popularity**  
+  Listings with high review counts are not necessarily the most expensive, suggesting that competitive pricing and value play a larger role in driving demand than premium pricing alone.
+
 ## Business Implications
 
 - Hosts in Manhattan and Brooklyn can leverage strong demand but must differentiate in a highly competitive environment.  
@@ -133,7 +144,9 @@ airbnb-analysis/
 │   ├── raw/
 │   └── processed/
 │       ├── cleaned_data.xlsx
-│       └── cleaned_data.csv
+│       ├── cleaned_data.csv
+│       ├── cleaned_data_sample.xlsx
+│       └── cleaned_data_sample.csv
 │
 ├── sql/
 │   └── airbnb_analysis.sql
@@ -145,6 +158,7 @@ airbnb-analysis/
 │   ├── dashboard_overview.png
 │   ├── avg_price_by_borough.png
 │   ├── avg_price_by_room_type.png
+│   ├── data_preview.png
 │   ├── nyc_listing_distribution_map.png
 │   └── price_vs_reviews.png
 │
@@ -158,7 +172,12 @@ airbnb-analysis/
 
 Due to file size limitations on GitHub, the full processed dataset (`cleaned_data.csv` and `cleaned_data.xlsx`) may not be directly viewable within the browser.
 
-To address this, a smaller sample dataset (`cleaned_data_sample.csv`) has been included in the `data/processed/` directory. This file contains a subset of approximately 300–500 rows and is intended to provide a quick, accessible preview of the dataset structure and key variables.
+To improve accessibility, smaller sample dataset files are included:
+
+- cleaned_data_sample.csv  
+- cleaned_data_sample.xlsx  
+
+These files provide a representative subset of the cleaned dataset and allow quick preview directly within GitHub without requiring large file downloads.
 
 The sample dataset preserves the core attributes used in the analysis, including pricing, review activity, room type classification, and geographic grouping, allowing users to easily understand the data without downloading large files.
 
